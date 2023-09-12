@@ -1,6 +1,7 @@
 import "./About1.css";
 import React from 'react';
 import photo from "../Images/photo.jpg";
+import resume from "../Images/resume.pdf";
 
 const About1 = () => {
   return (
